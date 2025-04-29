@@ -1,0 +1,5 @@
+/* Example CSS to customize pricing display */
+.woocommerce-page .price {
+    font-size: 1.2em;
+    color: #333;
+}
